@@ -1,0 +1,4 @@
+total sales: 2.26M
+top product : Canon imageClass 220
+top region : East
+top month : March
